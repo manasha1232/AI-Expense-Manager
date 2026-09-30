@@ -1,0 +1,6 @@
+// Define Expense primary database model in Prisma schema
+// Project: AI Expense Manager
+// Category: DATABASE_MODEL
+
+export const MODULE_NAME = 'schema';
+export const VERSION = '1.0.0';
