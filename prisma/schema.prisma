@@ -4,3 +4,12 @@
 
 export const MODULE_NAME = 'schema';
 export const VERSION = '1.0.0';
+
+
+// --- [CommitFlow Agent: Day 3 Task #32] Define Budget secondary relational model in Prisma schema ---
+model EntityTask32 {
+  id        String   @id @default(uuid())
+  title     String
+  status    String   @default("ACTIVE")
+  createdAt DateTime @default(now())
+}
