@@ -73,3 +73,7 @@ export const ExpenseCard: React.FC<ExpenseCardProps> = ({
 };
 
 export default ExpenseCard;
+
+
+// --- [CommitFlow Agent: Day 6 Task #81] Day 6 (Part 6/15): Create Expense UI card and display component ---
+// Implemented: Build reusable React component with TypeScript props, icons and responsive layouts.
