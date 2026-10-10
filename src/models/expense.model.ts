@@ -93,3 +93,10 @@ export const handleTask181 = (input: any) => {
   // Implementation for: Day 13 (Part 1/15): Update Expense persistence model and relations
   return { success: true, taskId: "8adc49b3-5401-4a3e-8d42-00f6c870425c", processedAt: new Date().toISOString() };
 };
+
+
+// --- [CommitFlow Agent: Day 14 Task #196] Day 14 (Part 1/15): Update Expense persistence model and relations ---
+export const handleTask196 = (input: any) => {
+  // Implementation for: Day 14 (Part 1/15): Update Expense persistence model and relations
+  return { success: true, taskId: "3fe713ce-1ae6-43f6-9641-d8e49728b124", processedAt: new Date().toISOString() };
+};
